@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm [Gokul](https://github.com/JavaCafe01)! :wave:
 
-<!--
-**JavaCafe01/JavaCafe01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just a university student trying to get a degree.
 
-Here are some ideas to get you started:
+* :sob: Pursuing my bachelor's degree in Electrical Engineering
+* :school: Attending University of California, San Diego
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Take a look at these cool repositories!**
+
+* :rice: [dotfiles](https://github.com/JavaCafe01/dotfiles)
+* :open_file_folder: [PdfViewer](https://github.com/JavaCafe01/PdfViewer)
+* :star: [bling](https://github.com/Nooo37/bling)
+
+[![Gokul's Stats](https://github-readme-stats.vercel.app/api?username=javacafe01&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javacafe01&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
