@@ -7,7 +7,7 @@ I'm just a university student trying to get a degree.
 
 **Take a look at these cool repositories!**
 
-* :rice: [dotfiles](https://github.com/JavaCafe01/dotfiles)
+* :rice: [awesome-config](https://github.com/JavaCafe01/awesome-config)
 * :open_file_folder: [PdfViewer](https://github.com/JavaCafe01/PdfViewer)
 * :star: [bling](https://github.com/Nooo37/bling)
 
