@@ -10,6 +10,3 @@ I'm just a university student trying to get a degree.
 * :rice: [dotfiles](https://github.com/JavaCafe01/dotfiles)
 * :open_file_folder: [PdfViewer](https://github.com/JavaCafe01/PdfViewer)
 * :star: [bling](https://github.com/Nooo37/bling)
-
-[![Gokul's Stats](https://github-readme-stats.vercel.app/api?username=javacafe01&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javacafe01&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
