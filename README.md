@@ -1,6 +1,4 @@
-### Hi there, I'm [Gokul](https://github.com/JavaCafe01)! :wave:
-
-I'm just a university student trying to get a degree.
+I'm just a university student trying to get a degree :(
 
 * :sob: Pursuing my bachelor's degree in Electrical Engineering
 * :school: Attending University of California, San Diego
