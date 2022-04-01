@@ -1,10 +1,17 @@
-I'm just a university student trying to get a degree :(
+I'm just a student trying to get a degree :(
 
-* :sob: Pursuing my bachelor's degree in Electrical Engineering
-* :school: Attending University of California, San Diego
+<hr>
 
-**Take a look at these cool repositories!**
+#### education
 
-* :rice: [dotfiles](https://github.com/JavaCafe01/dotfiles)
-* :open_file_folder: [PdfViewer](https://github.com/JavaCafe01/PdfViewer)
-* :star: [bling](https://github.com/Nooo37/bling)
+###### University of California, San Diego
+
+###### B.S. in Electrical Engineering, with a depth in Computer System Design (TODO)
+
+#### programming skills
+
+###### java, lua, c/c++, python, javascript
+
+#### tools
+
+###### linux, selenium, thousandeyes, splunk, matlab, opengl, ltspice/pspice
