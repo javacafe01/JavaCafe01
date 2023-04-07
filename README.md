@@ -19,3 +19,5 @@
 > A simple AwesomeWM themed wallpaper generator
 
 #### [resume](https://www.gs-dev.me/)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=javacafe01&show_icons=true&locale=en&layout=compact&theme=light" alt="stat" />
