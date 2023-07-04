@@ -4,7 +4,7 @@
 
 ###### B.S. in Electrical Engineering, with a focus in Computer System Design (IN PROGRESS)
 
-#### projects
+#### stuff
 
 > [hash](https://github.com/JavaCafe01/hash) <br>
 > parallel reimplementation of the Bitcoin hash
@@ -18,6 +18,4 @@
 > [awesome-wallpaper](https://github.com/JavaCafe01/awesome-wallpaper) <br>
 > A simple AwesomeWM themed wallpaper generator
 
-#### [resume](https://www.gs-dev.me/)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=javacafe01&show_icons=true&locale=en&layout=default&theme=light" alt="stat" />
+#### [resume](https://resume-javacafe01.vercel.app/)
