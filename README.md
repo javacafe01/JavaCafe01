@@ -18,4 +18,4 @@
 > [awesome-wallpaper](https://github.com/JavaCafe01/awesome-wallpaper) <br>
 > A simple AwesomeWM themed wallpaper generator
 
-#### [resume](https://resume-javacafe01.vercel.app/)
+#### [resume](https://resume.gs-dev.io)
