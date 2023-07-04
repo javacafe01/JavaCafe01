@@ -2,7 +2,7 @@
 
 ###### University of California, San Diego
 
-###### B.S. in Electrical Engineering, with a focus in Computer System Design (IN PROGRESS)
+###### B.S. in Electrical Engineering, with a focus in Computer System Design
 
 #### stuff
 
