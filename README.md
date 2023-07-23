@@ -6,6 +6,9 @@
 
 #### stuff
 
+> [PdfViewer](https://github.com/JavaCafe01/PdfViewer) <br>
+> A simple PDF viewer for Android
+
 > [hash](https://github.com/JavaCafe01/hash) <br>
 > parallel reimplementation of the Bitcoin hash
 
