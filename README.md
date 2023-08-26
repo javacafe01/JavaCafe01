@@ -6,6 +6,4 @@
 
 ###### B.S. in Electrical Engineering, with a focus in Computer System Design
 
-<hr/>
-
-#### [resume](https://resume.gsdev.sh/)
+> #### [resume](https://resume.gsdev.sh/)
