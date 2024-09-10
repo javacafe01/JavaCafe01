@@ -1,13 +1,13 @@
 ## Hi 👋
 
-#### education
+### education
 
-###### San Diego State University
+##### San Diego State University
 
 ###### M.S. in Computer Engineering (in progress)
 
-###### University of California, San Diego
+##### University of California, San Diego
 
 ###### B.S. in Electrical Engineering
 
-> #### [resume](https://resume.gsdev.sh/)
+#### [resume](https://resume.gsdev.sh/)
